@@ -1,4 +1,4 @@
-# Sushi Haven Website Template
+# Sushi Website Template
 
 ## Description:
 This project is a sleek and modern website template for a sushi restaurant, crafted with HTML, CSS, and JavaScript. The template not only provides a visually appealing showcase for your restaurant but also incorporates a dynamic theme-switching feature, allowing users to seamlessly toggle between light and dark themes for an enhanced user experience.
